@@ -5,6 +5,15 @@ date:   2022-12-28 00:00:00 -0600
 categories: jekyll update
 ---
 
+Hello and welcome.
+
+With all of the instability going on these days, I wanted a place to anchor my public life.
+
+I think there is real value to well-considered writing.
+
+Maybe I can do some of that here!
+
+
 
 
 
