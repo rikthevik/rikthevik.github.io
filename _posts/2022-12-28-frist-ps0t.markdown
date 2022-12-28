@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "frist ps0t"
+date:   2022-12-28 00:00:00 -0600
+categories: jekyll update
+---
+
+
+
+
