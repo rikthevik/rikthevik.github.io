@@ -22,7 +22,7 @@ title: erik.fred.erik.sen
 # email: nope@devnull.com 
 description: >- # this means to ignore newlines until "baseurl:"
   placeholder
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://rikthevik.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:  erikfrederiksen 
 # github_username:  rikthevik
