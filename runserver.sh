@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-bundle exec jekyll serve
+exec bundle exec jekyll serve
 
